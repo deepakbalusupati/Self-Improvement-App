@@ -1,7 +1,7 @@
 # Self-Improvement Tracker
 
-![App Screenshot](Screenshot_1.png)
-![App Screenshot](Screenshot_2.png)
+![App Screenshot](Home_Page.png)
+![App Screenshot](Behavior_Details.png)
 
 A full-stack application to track and improve personal behaviors/habits, built with React (frontend) and Node.js (backend).
 

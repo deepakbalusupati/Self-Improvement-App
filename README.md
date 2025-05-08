@@ -64,10 +64,10 @@ Update API URLs in src/services/ files if needed
    Start backend:
    ```bash
    cd ../backend
-   npm start
+   nodemon server.js
    ```
 
-Start frontend (in another terminal):
+   Start frontend (in another terminal):
    ```bash
    cd ../frontend
    npm start
